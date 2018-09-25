@@ -1,0 +1,3 @@
+[submodule "MushroomClassification"]
+	path = MushroomClassification
+	url = https://github.com/siniphia/MushroomClassification.git
